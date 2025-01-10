@@ -1,3 +1,4 @@
+![logo](https://github.com/chiranjeevic13/chiranjeevic13/blob/main/42089905_8967810.jpg)
 <h1 align="center">Hi 👋, I'm Chiranjeevi C</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
